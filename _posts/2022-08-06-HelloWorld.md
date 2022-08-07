@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "My first Posting!"
+comments: true
 description: ""
 ---
 
