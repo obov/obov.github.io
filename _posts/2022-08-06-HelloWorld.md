@@ -6,6 +6,9 @@ description: ""
 categories: coding
 tag: [javscript, blog]
 toc: true
+author_profile: false
+sidebar:
+  nav: "docs"
 ---
 
 # 오늘 처음 블로그 만들었습니다
