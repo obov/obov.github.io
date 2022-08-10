@@ -4,7 +4,7 @@ title: "웹소켓 간략한 설명 및 vanilla js로 구현"
 comments: true
 description: ""
 categories: javascript
-tag: [blog, websocket]
+tag: [websocket]
 toc: true
 author_profile: false
 published: true
