@@ -1,8 +1,8 @@
 ---
 layout: single
-title: "OrderingChildOfFlexWrapper"
+title: "flex가 뭔가요?"
 comments: true
-description: ""
+description: "flex "
 categories: css
 tag: ["flex", "order"]
 toc: true
@@ -15,7 +15,7 @@ sidebar:
 ### Flex
 
 - ```css
-  container {
+  .container {
     display: flex;
   }
   ```
@@ -30,7 +30,7 @@ sidebar:
 ### container 와 direction
 
 - ```css
-  container {
+  .container {
     display: flex; /* 내가 바로 flex container 다! 라는 징표 */
     /* flex-direction: row; 디폴트 방향 값 */
   }
