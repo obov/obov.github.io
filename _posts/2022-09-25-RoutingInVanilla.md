@@ -2,7 +2,7 @@
 layout: single
 title: "vanilla JS로 라우팅"
 comments: true
-description: "spa를 구현하는데 있어 페이지간 자연스러운 전환은 필수적 요소이다. 화면만 바뀌는 것이 아닌 주소창, 뒤로가기 등의 기능을 어떻게 구현할 수 있는지 알아보았다."
+description: "spa를 구현하는데 있어 페이지간 자연스러운 전환은 필수적 요소이다. vanilla javascript 화면만 바뀌는 것이 아닌 주소창, 뒤로가기 등의 기능이 자연스러운 동작을 하기 위해 고려해야하는 부분을 정리해보았다."
 categories: "Javscript"
 tag: ["javascript", "web", "browser"]
 toc: true
