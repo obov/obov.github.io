@@ -76,9 +76,7 @@ history.pushState(state, "", url);
 > &nbsp; 즉 spa를 구현하려면
 >
 > 1.  동적인 **화면 변경**과 함께
-> 2.  변경된 화면과 같은 모습을 그려주는 html(적어도 열리며 동적으로 변경된 부분을 반영하는)
->
-> 을 response 해주는 api를 함께 고려해야 한다.
+> 2.  변경된 화면과 같은 모습을 그려주는 html(적어도 열리며 동적으로 변경된 부분을 반영하는)을 response 해주는 api를 함께 고려해야 한다.
 
 &nbsp; **두번째 문제**는 뒤로가기 후 되돌아왔을때 발생한다.
 ![]({{site.url}}\images\2022-09-25\back_and_forward2.gif)
